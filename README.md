@@ -94,4 +94,5 @@ Weather data for New York saved to S3!
 - [Python Requests Library](https://docs.python-requests.org/en/latest/)
 - [Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
+![s3 image](https://github.com/saajibade/weather-dashboard-demo/blob/master/src/Assets/VSday1.JPG)
 ![s3 image](https://github.com/saajibade/weather-dashboard-demo/blob/master/src/Assets/30DaychallengeDay1.JPG)
