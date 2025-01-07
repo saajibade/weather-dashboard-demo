@@ -19,6 +19,8 @@ A Python-based Weather Dashboard that fetches real-time weather data from the Op
 
 ---
 
+![s3 image](https://github.com/saajibade/weather-dashboard-demo/tree/master/src/Assets/30DaychallengeDay1.JPG)
+
 ## 🛠️ Tech Stack
 - **Python**: The core language for scripting and automation.
 - **AWS S3**: Cloud storage solution for storing JSON weather data.
@@ -48,6 +50,9 @@ A Python-based Weather Dashboard that fetches real-time weather data from the Op
      OPENWEATHER_API_KEY=your_openweather_api_key
      AWS_BUCKET_NAME=your_s3_bucket_name
      ```
+
+
+     
 
 4. **Run the Application**:
    ```bash
